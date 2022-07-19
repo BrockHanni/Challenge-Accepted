@@ -1,2 +1,0 @@
-# Challenge-Accepted
-Completed challenges
